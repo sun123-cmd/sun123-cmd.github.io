@@ -1,7 +1,4 @@
 **Wenhao Sun's HomePage**
 
 
-**Examples:**
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Xiaorui Jiang's HomePage](https://xiaorui-jiang.github.io/)
-
+* Borrowed form [Xiaorui Jiang](https://github.com/xiaorui-jiang)
