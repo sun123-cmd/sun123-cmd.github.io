@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenhao Sun (江晓锐)"
-description              : "Multi-view Learning, Federated Learning, Representation Learning"
-repository               : "xiaorui-jiang/xiaorui-jiang.github.io/"
+title                    : "Wenhao Sun (孙文昊)"
+description              : "Embodied AI, AI for EDA, Robust"
+repository               : "sun123-cmd/sun123-cmd.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,23 +21,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaorui Jiang"
+  name             : "Wenhao Sun"
   avatar           : "images/logo.png"
   bio              :
-  location         : "Hefei, Anhui, China"
+  location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "xrjiang@mail.ustc.edu.cn"
+  email            : "sunwenhao23s@ict.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://scholar.google.com/citations?user=EjPC5I8AAAAJ&hl=en"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xiaorui-jiang"# e.g., "github username"
+  github           : "sun123-cmd"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
