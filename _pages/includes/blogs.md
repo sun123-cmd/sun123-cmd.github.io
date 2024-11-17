@@ -1,11 +1,11 @@
-# 🎓Educations
+# 🎓 Educations
 - Sep 2023 - now: Master of ICT, CAS
 - Sep 2019 - June 2023: Bachelor of HFUT
 
 # 💬 Invited Talks
 - *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
 
-# 💻 Misc
+# 💻 Blog
 
 <details>
 <summary>🎙 Reading Note</summary>
