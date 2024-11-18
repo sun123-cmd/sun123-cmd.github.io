@@ -10,6 +10,7 @@
 <details>
 <summary>🎙 Reading Note</summary>
 <pre><code>
+11/2024 春寒料峭吹酒醒，微冷，山头斜照却相迎
 11/2024 久久为功,善作善成
 </code></pre>
 </details>
