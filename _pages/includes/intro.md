@@ -5,4 +5,9 @@ Computing Systems(CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/),  [The In
 
 Prior to ICT, I received the B.S. from [HeFei University of Technology](https://www.hfut.edu.cn/) (HFUT) in 2023.
 
-My research interest includes Embodied AI methods & computing pipeline, Robust AI for EDA methods and Computer Architecture.
+My research interest includes Embodied AI methods & computing pipeline, espically for lower computing cost Embodied AI pipeline and real-time Embodied AI contorlling system.
+Recently, I'm learning Robust AI for EDA methods, including traditional black box AI for EDA methods and LLM4EDA. 
+
+You can find my CV [here](./files/EngCV.pdf).
+
+I'm always learning on my way, trying to improve myself and eqipping myself with the latest knowledge as the standard of Phd❤️.
