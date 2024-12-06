@@ -6,7 +6,7 @@
 
     Submit to JFR
 
-<div style="margin-left: 3%;"><img src="/images/dadu.png" style="width: 800px; height: auto;"></div>
+<div style="margin-left: 3%;"><img src="/images/dadu.png" style="width: 750px; height: auto;"></div>
 
 <br>
 
@@ -15,7 +15,7 @@
     Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
 
     Submit to ICRA 2025、
-<div style="margin-left: 3%;"><img src="/images/karma.png" style="width: 800px; height: auto;"></div>
+<div style="margin-left: 3%;"><img src="/images/karma.png" style="width: 750px; height: auto;"></div>
 
 <br>
 
@@ -24,4 +24,4 @@
    Bing Xu, Chunju Zhang, Wencong Liu, Jianwei Huang, Yujiao Su, Yucheng Yang, Weijie Jiang, **Wenhao Sun**
 
     Remote Sensing 2023
-<div style="margin-left: 3%;"><img src="/images/fkgrnet.png" style="width: 800px; height: auto;"></div>
+<div style="margin-left: 3%;"><img src="/images/fkgrnet.png" style="width: 750px; height: auto;"></div>
