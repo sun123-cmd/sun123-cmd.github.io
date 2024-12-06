@@ -24,4 +24,4 @@
    Bing Xu, Chunju Zhang, Wencong Liu, Jianwei Huang, Yujiao Su, Yucheng Yang, Weijie Jiang, **Wenhao Sun**
 
     Remote Sensing 2023
-<div style="margin-left: 3%;"><img src="/images/fkgrnet.png" style="zoom: 35%;"></div>
+<div style="margin-left: 3%;"><img src="/images/fkgrnet.png" style="width: 200px; height: auto;"></div>
