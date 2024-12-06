@@ -6,7 +6,7 @@
 
     Submit to JFR
 
-<div style="margin-left: 3%;"><img src="/images/dadu.png" style="zoom: 15%;"></div>
+<div style="margin-left: 3%;"><img src="/images/dadu.png" style="width: 800px; height: auto;"></div>
 
 <br>
 
@@ -14,8 +14,8 @@
 
     Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
 
-    Submit to ICRA 2025
-<div style="margin-left: 3%;"><img src="/images/karma.png" style="zoom: 35%;"></div>
+    Submit to ICRA 2025、
+<div style="margin-left: 3%;"><img src="/images/karma.png" style="width: 800px; height: auto;"></div>
 
 <br>
 
