@@ -17,6 +17,8 @@
     Submit to ICRA 2025
 <div style="margin-left: 3%;"><img src="/images/karma.png" style="zoom: 35%;"></div>
 
+<br>
+
 3.[Landslide Identification Method Based on the FKGRNet Model for Remote Sensing Images](https://www.mdpi.com/2072-4292/15/13/3407)
 
    Bing Xu, Chunju Zhang, Wencong Liu, Jianwei Huang, Yujiao Su, Yucheng Yang, Weijie Jiang, **Wenhao Sun**
