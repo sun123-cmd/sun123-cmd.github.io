@@ -10,4 +10,8 @@ Recently, I'm learning Robust AI for EDA methods, including traditional black bo
 
 You can find my CV [here](./files/EngCV.pdf).
 
-I'm always learning on my way, trying to improve myself and eqipping myself with the latest knowledge as the standard of Phd❤️.
+I'm always learning on my way, trying to improve myself and eqipping myself with the latest knowledge as the standard of Phd.
+
+In my spare time, I like to climb mountains or go hiking, keeping my mind fresh and clear. A healthy mind and body are the foundation for efficient research.
+
+I love my researching, my life and my [bubble](https://panpancui1230.github.io/)❤️.
