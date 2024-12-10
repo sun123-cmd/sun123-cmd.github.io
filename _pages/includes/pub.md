@@ -4,7 +4,6 @@
 
     **Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan, Yinhe Han
 
-    Submit to JFR
 
 <div style="margin-left: 3%;"><img src="/images/dadu.png" style="width: 750px; height: auto;"></div>
 
@@ -14,7 +13,6 @@
 
     Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
 
-    Submit to ICRA 2025、
 <div style="margin-left: 3%;"><img src="/images/karma.png" style="width: 750px; height: auto;"></div>
 
 <br>
