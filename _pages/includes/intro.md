@@ -9,10 +9,8 @@ My research interest includes Computer Architecture, Real-time Embedding system 
 
 Recently, I have been analyzing the impact of advanced CPU features on real-time performance, including out-of-order execution, branch prediction, multithreading, and L3 cache. The balance between hardware performance and real-time capability is highly significant for the efficiency of Embodied AI systems.
 
-You can find my CV [here](./files/EngCV.pdf).
-
-I'm always learning on my way, trying to explore, re-serach and improve myself and eqipping myself with the latest knowledge as the standard of Phd.
-
-In my spare time, I like to climb mountains or go hiking, keeping my mind fresh and clear. A healthy mind and body are the foundation for efficient research.
+I'm always learning on my way, trying to explore, re-serach and improve myself and eqipping myself with the latest knowledge as the standard of Phd. In my spare time, I like to climb mountains or go hiking, keeping my mind fresh and clear. A healthy mind and body are the foundation for efficient research.
 
 I love my researching, my life and my [bubble](https://panpancui1230.github.io/)❤️.
+
+You can find my CV [here](./files/EngCV.pdf).
