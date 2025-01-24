@@ -5,8 +5,9 @@ Computing Systems(CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/),  [The In
 
 Prior to ICT, I received the B.S. from [HeFei University of Technology](https://www.hfut.edu.cn/) (HFUT) in 2023.
 
-My research interest includes Embodied AI methods & computing pipeline, espically for lower computing cost Embodied AI pipeline and real-time Embodied AI contorlling system.
-Recently, I'm learning Robust AI for EDA methods, including traditional black box AI for EDA methods and LLM4EDA. 
+My research interest includes Computer Architecture, Real-time Embedding system and Embodied AI, espically for Embodied AI System Hardware-Software Co-Design. I believe that Embodied AI is a system engineering, which including fancy algorithmm, powerful hardware and real-time robust software. 
+
+Recently, I have been analyzing the impact of advanced CPU features on real-time performance, including out-of-order execution, branch prediction, multithreading, and L3 cache. The balance between hardware performance and real-time capability is highly significant for the efficiency of Embodied AI systems.
 
 You can find my CV [here](./files/EngCV.pdf).
 
