@@ -13,4 +13,4 @@ I'm always learning on my way, trying to explore, re-serach and improve myself, 
 
 I love my researching, my life and my [bubble](https://panpancui1230.github.io/)❤️.
 
-You can find my CV [here](./files/EngCV.pdf).
+You can find my CV [here](./files/WenhaoSun-CV.pdf).
