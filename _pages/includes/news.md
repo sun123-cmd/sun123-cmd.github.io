@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.01*: 🎉 Our paper: `KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems` is accepted by ICRA 2025.
 - *2024.11*: 🎉 I changed trample of the page.
 - *2023.09*: 🎉 I started the hopeful academic journey at ICT, CAS.
 - *2023.07*: 🎉 I joined the embedded operating system internship program at [Sinsegye](https://www.sinsegye.com.cn/).
