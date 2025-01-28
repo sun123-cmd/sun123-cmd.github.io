@@ -16,4 +16,31 @@
 </details>
 
 ## 🎥 Photos
-- To be continued…
+
+<figure style="margin-left: 3%; width: 550px;">
+  <img src="/images/view3.jpg" alt="Mutianyu Great Wall, Beijing, 2023" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Huashan Mountain, Shanxi, 2023
+  </figcaption>
+</figure>
+
+<figure style="margin-left: 3%; width: 550px;">
+  <img src="/images/view1.png" alt="Mutianyu Great Wall, Beijing, 2023" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Mutianyu Great Wall, Beijing, 2023
+  </figcaption>
+</figure>
+
+<figure style="margin-left: 3%; width: 550px;">
+  <img src="/images/view2.jpg" alt="Mutianyu Great Wall, Beijing, 2023" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Yanqi Lake, Beijing, 2024
+  </figcaption>
+</figure>
+
+<figure style="margin-left: 3%; width: 550px;">
+  <img src="/images/view4.jpg" alt="Mutianyu Great Wall, Beijing, 2023" style="width: 100%; height: auto;">
+  <figcaption style="text-align: center; font-style: italic; margin-top: 8px;">
+    Celebration for new year, Beijing, 2025
+  </figcaption>
+</figure>
