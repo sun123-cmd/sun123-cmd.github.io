@@ -3,7 +3,8 @@
 1.[DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://rlc-lab.github.io/dadu-e/)
 
     **Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan, Yinhe Han
-    * Submit to: Journal of Field Robotics(JFR)
+    
+* Submit to: Journal of Field Robotics(JFR)
 
 
 <div style="margin-left: 3%;"><img src="/images/dadu.png" style="width: 750px; height: auto;"></div>
