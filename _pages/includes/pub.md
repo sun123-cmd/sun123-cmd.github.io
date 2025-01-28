@@ -1,6 +1,5 @@
 # 📝 Publications
 
----
 
 ## 1. [DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://rlc-lab.github.io/dadu-e/)
 
@@ -10,7 +9,6 @@
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/dadu.png" alt="DaDu-E Publication Cover" style="width: 100%; height: auto;">
-  <figcaption style="font-style: italic; margin-top: 8px;">Architecture of DaDu-E Robotic Computing Pipeline</figcaption>
 </figure>
 
 ---
@@ -23,7 +21,6 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/karma.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
-  <figcaption style="font-style: italic; margin-top: 8px;">Architecture of KARMA Memory Setting</figcaption>
 </figure>
 
 ---
@@ -36,7 +33,6 @@ Bing Xu, Chunju Zhang, Wencong Liu, Jianwei Huang, Yujiao Su, Yucheng Yang, Weij
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/fkgrnet.png" alt="FKGRNet Publication Cover" style="width: 100%; height: auto;">
-  <figcaption style="font-style: italic; margin-top: 8px;">Architecture of FKGRNet</figcaption>
 </figure>
 
 ---
