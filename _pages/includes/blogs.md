@@ -15,6 +15,12 @@
 </code></pre>
 </details>
 
+# 📃Files
+
+* [Use of real robot](files/robot.md)
+* [Use of zerotier](files/zerotier.md)
+* [Use of ict-auth](files/ict-auth.md)
+
 ## 🎥 Photos
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; margin-left: 3%;">
