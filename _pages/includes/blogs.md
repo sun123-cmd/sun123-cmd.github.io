@@ -2,8 +2,10 @@
 - Sep 2023 - now: Master of ICT, CAS
 - Sep 2019 - June 2023: Bachelor of HFUT
 
-# 💬 Invited Talks
-- *2023.04*, Peer Mentor for the *Youth Leadership* program at HFUT
+# 💬 Academic Services
+- Web Chair of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on[ISCA 2025](https://iscaconf.org/isca2025/)
+
+
 
 # 💻 Blogs
 
