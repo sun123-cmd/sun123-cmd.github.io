@@ -3,7 +3,7 @@
 - Sep 2019 - June 2023: Bachelor of HFUT
 
 # 💬 Academic Services
-- Web Chair of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on[ISCA 2025](https://iscaconf.org/isca2025/)
+- Web Chair of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on [ISCA 2025](https://iscaconf.org/isca2025/)
 
 
 
