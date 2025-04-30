@@ -12,20 +12,7 @@
 </figure>
 
 ---
-
-## 2. [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)
-
-Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
-
-*Accepted by: ICRA 2025*
-
-<figure style="margin: 20px auto; width: 550px; text-align: center;">
-  <img src="/images/karma.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
-</figure>
-
----
-
-## 3. [Aphelios: A Selective Lock-step Neural Processing Unit Design)
+## 2. [Aphelios: A Selective Lock-step Neural Processing Unit Design)
 
  **Wenhao Sun**,Yiming Gan, Yuhui Hao, Yinhe Han, 
 
@@ -36,3 +23,19 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 </figure>
 
 ---
+
+## 3. [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)
+
+Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
+
+*Accepted by: ICRA 2025*
+
+<figure style="margin: 20px auto; width: 550px; text-align: center;">
+  <img src="/images/karma.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
+</figure>
+
+
+
+
+
+
