@@ -25,14 +25,14 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 
 ---
 
-## 3. [Landslide Identification Method Based on the FKGRNet Model for Remote Sensing Images](https://www.mdpi.com/2072-4292/15/13/3407)
+## 3. [Aphelios: A Selective Lock-step Neural Processing Unit Design)
 
-Bing Xu, Chunju Zhang, Wencong Liu, Jianwei Huang, Yujiao Su, Yucheng Yang, Weijie Jiang, **Wenhao Sun**
+ **Wenhao Sun**,Yiming Gan, Yuhui Hao, Yinhe Han, 
 
-*Accepted by: Remote Sensing 2023*
+*Accepted by: GLSVLSI 2025*
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
-  <img src="/images/fkgrnet.png" alt="FKGRNet Publication Cover" style="width: 100%; height: auto;">
+  <img src="/images/Aphelios.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
 </figure>
 
 ---
