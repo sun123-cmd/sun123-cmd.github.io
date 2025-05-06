@@ -24,6 +24,18 @@
 
 ---
 
+## 3. Investigating Performance and Real-Time Trade-offs in Out-of-Order Processors
+
+ **Wenhao Sun**, Yuhui Hao, Yiyang Huang
+
+*Accepted by: ISCA 2025 (workshop)*
+
+<figure style="margin: 20px auto; width: 550px; text-align: center;">
+  <img src="/images/o3.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
+</figure>
+
+---
+
 ## 3. [KARMA: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)
 
 Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan*
