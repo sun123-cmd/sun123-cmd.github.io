@@ -21,6 +21,9 @@
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/Aphelios.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
 </figure>
+<p style="text-align: center; color: red; font-weight: bold;">
+  Best Paper Nominee!
+</p>
 
 ---
 
