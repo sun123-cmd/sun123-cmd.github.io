@@ -17,7 +17,7 @@
  **Wenhao Sun**, Yiming Gan*, Yuhui Hao, Yinhe Han
 
 *Accepted by: GLSVLSI 2025*
-<p style="text-align: center; color: red; font-weight: bold;">
+<p style="text-align: left; color: red; font-weight: bold;">
   Best Paper Nominee!
 </p>
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
