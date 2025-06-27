@@ -12,7 +12,7 @@
 </figure>
 
 ---
-## 2. Aphelios: A Selective Lock-step Neural Processing Unit Design
+## 2. [Aphelios: A Selective Lock-step Neural Processing Unit Design](https://dl.acm.org/doi/10.1145/3716368.3735205)
 
  **Wenhao Sun**, Yiming Gan*, Yuhui Hao, Yinhe Han
 
