@@ -14,5 +14,3 @@ Recently, I have been analyzing the impact of advanced CPU features between real
 I'm always learning on my way, trying to explore, re-serach and improve myself, eqipping myself with the latest knowledge as the standard of Phd. In my spare time, I like to climb mountains or go hiking, keeping my mind fresh and clear. A healthy mind and body are the foundation for efficient research.
 
 I love my researching, my life and my [bubble](https://panpancui1230.github.io/)❤️.
-
-You can find my CV [here](./files/WenhaoSun-CV.pdf).
