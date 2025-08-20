@@ -59,4 +59,4 @@
 
 ## 🌍 Visitor Map
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=250&t=n&d=wHSzOYLT4svRXt9P8u8ffZ7iQMNh1k5WSMY3rUUEdio'></script>
