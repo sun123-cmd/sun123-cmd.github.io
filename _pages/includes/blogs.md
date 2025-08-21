@@ -2,6 +2,10 @@
 - Sep 2023 - now: Master of ICT, CAS
 - Sep 2019 - June 2023: Bachelor of HFUT
 
+# 🔨 Internship
+- Jun 2025 - Now: SoC Designing Engineer at [Beijing Institute of Open Source Chip (BOSC)](https://www.bosc.ac.cn/)
+- Feb 2023 - Aug 2023: Embedding System Engineer at [Sinsegye](https://www.sinsegye.com/)
+
 # 💬 Academic Services
 - Web Chair of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on [ISCA 2025](https://iscaconf.org/isca2025/)
 
