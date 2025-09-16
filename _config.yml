@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wenhao Sun (孙文昊)"
+title                    : "Wenhao Sun (孙文昊)@ICT, CAS"
 description              : "Master student of RLC-Lab@ICT, CAS"
 repository               : "sun123-cmd/sun123-cmd.github.io/"
 google_scholar_stats_use_cdn : true
