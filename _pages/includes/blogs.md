@@ -1,12 +1,12 @@
 # 🎓 Educations
-- *2023.06 - 2026.07*, M.Eng, Institute of Computing Technologies, Chinese Academy of Sciences (ICT, CAS).
-<br/> Advisors: Prof. [Yinhe Han](https://ict.cas.cn/sourcedb/cn/jssrck/201610/t20161010_4674169.html) and Prof. [Yiming Gan](https://yiminggan.com/).
-- *2019.09 - 2023.06*, B.Eng, HeFei University of Technology (HFUT).
+- *2023.06 - 2026.07*:  M.Eng, Institute of Computing Technologies, Chinese Academy of Sciences (ICT, CAS).
+<br/> Advisor:  Prof. [Yinhe Han](https://ict.cas.cn/sourcedb/cn/jssrck/201610/t20161010_4674169.html) and Prof. [Yiming Gan](https://yiminggan.com/).
+- *2019.09 - 2023.06*:  B.Eng, HeFei University of Technology (HFUT).
 <br/> Advisor:  Prof. [Chunjv Zhang]().
 
 # 🔨 Internship
-- *2025.06 - 2025.10*, SoC Designing Engineer at [Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)](https://www.bosc.ac.cn/)
-- *2023.02 - 2023.08*, Embedding System Engineer at [Sinsegye (中科时代)](https://www.sinsegye.com/)
+- *2025.06 - 2025.10*:  SoC Designing Engineer at [Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)](https://www.bosc.ac.cn/)
+- *2023.02 - 2023.08*:  Embedding System Engineer at [Sinsegye (中科时代)](https://www.sinsegye.com/)
 
 # 💬 Academic Services
 - **Web Chair** of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on [ISCA 2025](https://iscaconf.org/isca2025/)
