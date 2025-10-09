@@ -27,7 +27,7 @@
 
 ---
 
-## 3. [Investigating Performance and Real-Time Trade-offs in Out-of-Order Processors](https://arch4eai.github.io/file/WenhaoSun_OoOCPU.pdf)
+## 3. [Investigating Performance and Real-Time Trade-offs in Out-of-Order Processors](https://arch4eai.github.io/file/ISCA25_workshop_WenhaoSun_OoOCPU.pdf)
 
  **Wenhao Sun**, Yuhui Hao, Yiyang Huang
 
