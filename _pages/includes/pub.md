@@ -5,7 +5,7 @@
 
 **Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu*, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan*, Yinhe Han
 
-*Submit to: Journal of Field Robotics (JFR)*
+*Accepted by: Journal of Field Robotics (JFR)*
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/dadu.png" alt="DaDu-E Publication Cover" style="width: 100%; height: auto;">
