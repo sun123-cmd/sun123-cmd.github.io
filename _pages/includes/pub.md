@@ -16,7 +16,7 @@
 
  **Wenhao Sun**, Yiming Gan*, Yuhui Hao, Yinhe Han
 
-*Accepted by: GLSVLSI 2025*
+*Accepted by: The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI 2025)*
 <p style="text-align: left; color: red; font-weight: bold;">
   Best Paper Nominee!
 </p>
@@ -31,7 +31,7 @@
 
  **Wenhao Sun**, Yuhui Hao, Yiyang Huang
 
-*Accepted by: ISCA 2025 (workshop)*
+*Accepted by: Workshop of the 52nd International Symposium on Computer Architecture (ISCA 2025 workshop)*
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/o3.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
@@ -43,7 +43,7 @@
 
 Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan*
 
-*Accepted by: ICRA 2025*
+*Accepted by: 2025 International Conference on Robotics and Automation (ICRA 2025)*
 
 <figure style="margin: 20px auto; width: 550px; text-align: center;">
   <img src="/images/karma.png" alt="KARMA Publication Cover" style="width: 100%; height: auto;">
