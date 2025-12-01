@@ -1,6 +1,8 @@
 # 👀 About Me
 
-**🔍I’m looking for PhD position starting at FALL 2026 or SPRING 2027, please reach out for any opportunities!**
+<div style="padding: 12px 15px; margin: 15px 0; background-color: #f0f7ff; border-left: 5px solid #007bff; border-radius: 4px;">
+<strong>🔍I’m looking for PhD position starting in FALL 2026 or SPRING 2027, please reach out for any opportunities!</strong>
+</div>
 
 I’m a final year master's student at [Robotics Learning and Chips lab(RLC-Lab)](https://github.com/RLC-Lab) of [Research Center for Intelligent
 Computing Systems(CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/),  [The Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/).
