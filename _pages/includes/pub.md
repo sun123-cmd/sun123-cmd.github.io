@@ -1,7 +1,7 @@
 # 📝 Publications
 
 
-## 1. [DaDu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://rlc-lab.github.io/dadu-e/)
+## 1. [Dadu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://rlc-lab.github.io/dadu-e/)
 
 **Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu*, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan*, Yinhe Han
 
