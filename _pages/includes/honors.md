@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-
+- *2026.04* Merit Student of ICT, CAS
 - *2026.01* Director's Excellence Scholarships of ICT, CAS (top 30)
 - *2025.10* First Grade of Postgraduate Scholarships of UCAS (top 10%)
 - *2024.10* Postgraduate Scholarships of UCAS
