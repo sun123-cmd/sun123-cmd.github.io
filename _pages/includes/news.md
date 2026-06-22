@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.06*: 🎓 I have obtained the master's degree at ICT, CAS. Best wishes to all the friends and myself!
 - *2026.06*: 🎉 My paper `AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding` is accepted by **ICPP 2026**, first blood of bioinformatics+computer architecture.
 - *2025.11*: 🎉 I will have a presentation at SIGDA Student Research Forum of **ASP-DAC 2026**.
 - *2025.11*: 🎉 After 10 months and 4 revisions, our paper: `Dadu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline` is accpeted by **JFR**.
