@@ -1,8 +1,7 @@
 # 👀 About Me
 
 
-I’m a final year master's student at [Robotics Learning and Chips lab(RLC-Lab)](https://github.com/RLC-Lab) of [Research Center for Intelligent
-Computing Systems(CICS)](https://ict.cas.cn/jssgk/zzjg/kyxt/znjsj/js/),  [The Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS)](http://www.ict.ac.cn/).
+I’m a PhD student at [JC STEM Lab of Future Advanced Computing Technologies (FACT-Lab)](https://fact-lab.hkust.edu.hk/) of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
 My research interests include **Computer Architecture**, **Embodied AI** and **Robotics**, especially for Embodied AI System Hardware-Software Co-Design. I believe that Embodied AI is a edge system engineering, which includes fancy algorithms, powerful hardware and real-time robust software. 
 
