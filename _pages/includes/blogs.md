@@ -1,11 +1,13 @@
 # 🎓 Educations
-- *2023.06 - 2026.07*:  M.Eng, Institute of Computing Technologies, Chinese Academy of Sciences (ICT, CAS).
+- *2026.09 - *:  PhD Student, The Hong Kong University of Science and Technology (HKUST).
+<br/> Advisor:  Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie).
+- *2023.09 - 2026.06*:  M.Eng, Institute of Computing Technologies, Chinese Academy of Sciences (ICT, CAS).
 <br/> Advisor:  Prof. [Yinhe Han](https://ict.cas.cn/sourcedb/cn/jssrck/201610/t20161010_4674169.html) and Prof. [Yiming Gan](https://yiminggan.com/).
 - *2019.09 - 2023.06*:  B.Eng, HeFei University of Technology (HFUT).
 <br/> Advisor:  Prof. [Chunjv Zhang]().
 
 # 🔨 Internship
-- *2025.06 - 2025.10*:  SoC Designing Engineer at [Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)](https://www.bosc.ac.cn/)
+- *2025.06 - 2026.05*:  SoC Designing Engineer at [Beijing Institute of Open Source Chip (北京市开源芯片研究院, BOSC)](https://www.bosc.ac.cn/)
 - *2023.02 - 2023.08*:  Embedding System Engineer at [Sinsegye (中科时代)](https://www.sinsegye.com/)
 
 # 💬 Academic Services
