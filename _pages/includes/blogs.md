@@ -1,5 +1,5 @@
 # 🎓 Educations
-- *2026.09 - *:  PhD Student, The Hong Kong University of Science and Technology (HKUST).
+- *2026.09 -*:  PhD Student, The Hong Kong University of Science and Technology (HKUST).
 <br/> Advisor:  Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie).
 - *2023.09 - 2026.06*:  M.Eng, Institute of Computing Technologies, Chinese Academy of Sciences (ICT, CAS).
 <br/> Advisor:  Prof. [Yinhe Han](https://ict.cas.cn/sourcedb/cn/jssrck/201610/t20161010_4674169.html) and Prof. [Yiming Gan](https://yiminggan.com/).
