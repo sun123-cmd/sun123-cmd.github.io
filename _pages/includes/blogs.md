@@ -11,7 +11,7 @@
 - *2023.02 - 2023.08*:  Embedding System Engineer at [Sinsegye (中科时代)](https://www.sinsegye.com/)
 
 # 💬 Academic Services
-- **Program Chair** of AAAI2027, MICRO2026 AE 
+- **Program Committee** of AAAI2027, MICRO2026 AE 
 - **Web Chair** of [Arch4EAI: Workshop on Architecture Support for Embodied AI Systems](https://arch4eai.github.io/) on [ISCA 2025](https://iscaconf.org/isca2025/)
 - **Reviewer** of [Machine Learning (2023, JCR-Q2)](https://link.springer.com/journal/10994/submission-guidelines?gad_source=1&gad_campaignid=22686152878&gbraid=0AAAAApcoa0aRQUoulQOfqd2_zg9F0sZZw&gclid=Cj0KCQjw5JXFBhCrARIsAL1ckPsPI9b8bhaJxwHdSPtOIJ7RhZWpTftfxdIP1cBDYZuZ5QtUNgeeFQEaAqHVEALw_wcB)
 
