@@ -7,7 +7,6 @@
 
 *Journal of Field Robotics (JFR)*
 
----
 
 ## [J2]. [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://rlc-lab.github.io/dadu-e/)
 
@@ -25,7 +24,7 @@ Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaoto
 
 **Best Paper Nominee**
 
----
+
 
 ## [C2]. [AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding]()
 
@@ -33,7 +32,7 @@ Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaoto
 
 *The 55th International Conference on Parallel Processing (ICPP 2026)*
 
----
+
 
 ## [C3]. [Karma: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)
 
@@ -50,7 +49,7 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 *Workshop of the 52nd International Symposium on Computer Architecture (ISCA 2025 workshop)*
 
 
----
+
 
 ## [W2]. Design of Predictable and Reliable Computing Architecture for Robotic Systems
 
