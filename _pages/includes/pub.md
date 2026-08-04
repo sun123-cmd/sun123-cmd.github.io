@@ -5,14 +5,24 @@
 
 **Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu*, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan*, Yinhe Han
 
-*Accepted by: Journal of Field Robotics (JFR)*
+*Journal of Field Robotics (JFR)*
 
 ---
+
+## [J2]. [SAP: Shared-Aware Prefetching for Reducing Inter-Chiplet Data Access Latency](https://rlc-lab.github.io/dadu-e/)
+
+Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaotong Wei, Feng Min, Ying Wang, Yinhe Han
+
+*IEEE Computer Architecture Letters (CAL)*
+
+---
+
 ## [C1]. [Aphelios: A Selective Lock-step Neural Processing Unit Design](https://dl.acm.org/doi/10.1145/3716368.3735205)
 
  **Wenhao Sun**, Yiming Gan*, Yuhui Hao, Yinhe Han
 
 *The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI 2025)*
+
 **Best Paper Nominee**
 
 ---
@@ -22,8 +32,6 @@
  **Wenhao Sun**, Panpan Cui, Yiqi Liu, Wanyu Wang
 
 *The 55th International Conference on Parallel Processing (ICPP 2026)*
-
-**Best Paper Nominee**
 
 ---
 
