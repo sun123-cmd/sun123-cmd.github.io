@@ -42,7 +42,7 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 
 
 
-## [C4]. [GAREN: Finding Optimal RVV Extensions and Vector Core Design for Robotic Applications]
+## [C4]. [GAREN: Finding Optimal RVV Extensions and Vector Core Design for Robotic Applications]()
 
 Yihao Ha, Yiming Gan, Yuhui Hao, **Wenhao Sun**, Bo Yu, Shaoshan Liu, Qiang Liu
 
