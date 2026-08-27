@@ -40,6 +40,14 @@ Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, 
 
 *2025 International Conference on Robotics and Automation (ICRA 2025)*
 
+
+
+## [C4]. [GAREN: Finding Optimal RVV Extensions and Vector Core Design for Robotic Applications]
+
+Yihao Ha, Yiming Gan, Yuhui Hao, **Wenhao Sun**, Bo Yu, Shaoshan Liu, Qiang Liu
+
+*The 44th IEEE International Conference on Computer Design (ICCD 2026)*
+
 ---
 
 ## [W1]. [Investigating Performance and Real-Time Trade-offs in Out-of-Order Processors](https://arch4eai.github.io/file/ISCA25_workshop_WenhaoSun_OoOCPU.pdf)
