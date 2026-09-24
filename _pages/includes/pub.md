@@ -26,7 +26,7 @@ Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaoto
 
 
 
-## [C2]. [AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding]()
+## [C2]. [AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding](https://dl.acm.org/doi/10.1145/3832810.3832854)
 
  **Wenhao Sun**, Panpan Cui, Yiqi Liu, Wanyu Wang
 
