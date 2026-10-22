@@ -3,7 +3,7 @@
 
 ## [J1]. [Dadu-E: Rethinking the Role of Large Language Model in Robotic Computing Pipeline](https://rlc-lab.github.io/dadu-e/)
 
-**Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu*, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan*, Yinhe Han
+**Wenhao Sun**, Sai Hou, Zixuan Wang, Bo Yu, Shaoshan Liu, Xu Yang, Shuai Liang, Yiming Gan, Yinhe Han
 
 *Journal of Field Robotics (JFR)*
 
@@ -18,7 +18,7 @@ Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaoto
 
 ## [C1]. [Aphelios: A Selective Lock-step Neural Processing Unit Design](https://dl.acm.org/doi/10.1145/3716368.3735205)
 
- **Wenhao Sun**, Yiming Gan*, Yuhui Hao, Yinhe Han
+ **Wenhao Sun**, Yiming Gan, Yuhui Hao, Yinhe Han
 
 *The 35th edition of Great Lakes Symposium on VLSI (GLSVLSI 2025)*
 
