@@ -36,7 +36,7 @@ Junpei Huang, Haobo Xu, Yiming Gan, Ying Li, **Wenhao Sun**, Mengdi Wang, Xiaoto
 
 ## [C3]. [Karma: Augmenting Embodied AI Agents with Long-and-short Term Memory Systems](https://arxiv.org/abs/2409.14908)
 
-Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan*
+Zixuan Wang, Bo Yu, Junzhe Zhao, **Wenhao Sun**, Sai Hou, Shuai Liang, Xing Hu, Yinhe Han, Yiming Gan
 
 *2025 International Conference on Robotics and Automation (ICRA 2025)*
 
