@@ -1,5 +1,6 @@
 # 🔥 News
 
+- *2026.11*: 🎉 One paper is accepted by **DATE 2027**.
 - *2026.06*: 🎓 I have obtained the master's degree at ICT, CAS. Best wishes to all the friends and myself!
 - *2026.06*: 🎉 My paper `AccESM: Packed-Total Exact Inference for CPU ESM2 Embedding` is accepted by **ICPP 2026**, first blood of bioinformatics+computer architecture.
 - *2025.11*: 🎉 I will have a presentation at SIGDA Student Research Forum of **ASP-DAC 2026**.
