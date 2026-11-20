@@ -3,7 +3,7 @@
 
 I’m a PhD student at [JC STEM Lab of Future Advanced Computing Technologies (FACT-Lab)](https://fact-lab.hkust.edu.hk/) of [The Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/).
 
-My research interests include **Computer Architecture**, **Embodied AI** and **Agentic System**, especially for Embodied AI System Hardware-Software Co-Design. I believe that Embodied AI is a edge system engineering, which includes fancy algorithms, powerful hardware and real-time robust software. 
+My research interests include **Computer Architecture**, **Embodied AI** and **Agentic System**. I believe that Embodied AI is a edge system engineering, which includes fancy algorithms, powerful hardware and real-time robust software. Meanwhile agentic workload stands for the future of 付future productivity
 
 I'm always learning on my way, trying to explore, re-search and improve myself. In my spare time, I like to climb mountains or go hiking, keeping my mind fresh and clear. A healthy mind and body are the foundation for efficient research.
 
